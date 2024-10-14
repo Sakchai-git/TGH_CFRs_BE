@@ -1,0 +1,8 @@
+2024-01-04 09:15:21.049 +07:00 [INF] Get data from EBAO LS (Receive) (Date : 20231101 to 20231130)
+2024-01-04 09:15:29.342 +07:00 [INF] Found Data 7504 Records.
+2024-01-04 09:15:29.350 +07:00 [INF] Write to DB
+2024-01-04 09:15:29.906 +07:00 [INF] Write to DB Success.
+2024-01-04 09:18:50.948 +07:00 [INF] Get data from EBAO LS (Receive) (Date : 20231101 to 20231130)
+2024-01-04 09:19:03.862 +07:00 [INF] Found Data 7504 Records.
+2024-01-04 09:19:03.876 +07:00 [INF] Write to DB
+2024-01-04 09:19:04.707 +07:00 [INF] Write to DB Success.

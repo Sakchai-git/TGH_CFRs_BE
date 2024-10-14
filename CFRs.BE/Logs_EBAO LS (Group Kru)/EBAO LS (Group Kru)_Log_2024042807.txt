@@ -1,0 +1,5 @@
+2024-04-28 07:20:43.565 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20231101 to 20231130)
+2024-04-28 07:25:56.335 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20231101 to 20231130)
+2024-04-28 07:27:10.214 +07:00 [INF] Found Data 1271 Records.
+2024-04-28 07:27:10.217 +07:00 [INF] Write to DB
+2024-04-28 07:27:11.314 +07:00 [ERR] Get : Conversion failed when converting date and/or time from character string.

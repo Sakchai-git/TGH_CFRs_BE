@@ -1,0 +1,4 @@
+2024-01-04 07:44:56.326 +07:00 [INF] Found Data 2830 Records.
+2024-01-04 07:44:56.352 +07:00 [INF] Write to DB
+2024-01-04 07:44:57.048 +07:00 [INF] Write to DB Success.
+2024-01-04 07:44:57.052 +07:00 [INF] Batch_DMS End

@@ -1,0 +1,5 @@
+2024-05-30 06:28:22.286 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20231101 to 20231130)
+2024-05-30 06:33:20.644 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)
+2024-05-30 06:44:31.905 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)
+2024-05-30 06:49:30.262 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)
+2024-05-30 06:55:40.722 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)

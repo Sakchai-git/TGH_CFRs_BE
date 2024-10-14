@@ -1,0 +1,15 @@
+2024-05-30 07:04:03.490 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)
+2024-05-30 07:05:30.755 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)
+2024-05-30 07:07:09.303 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)
+2024-05-30 07:12:09.470 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)
+2024-05-30 07:17:09.491 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)
+2024-05-30 07:17:26.114 +07:00 [INF] Write to DB
+2024-05-30 07:19:47.888 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)
+2024-05-30 07:20:08.872 +07:00 [INF] Write to DB
+2024-05-30 07:20:10.582 +07:00 [INF] Write to DB Success.
+2024-05-30 07:24:47.671 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)
+2024-05-30 07:25:27.199 +07:00 [INF] Write to DB
+2024-05-30 07:25:28.080 +07:00 [INF] Write to DB Success.
+2024-05-30 07:33:47.653 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20240101 to 20240131)
+2024-05-30 07:33:59.363 +07:00 [INF] Write to DB
+2024-05-30 07:33:59.672 +07:00 [INF] Write to DB Success.

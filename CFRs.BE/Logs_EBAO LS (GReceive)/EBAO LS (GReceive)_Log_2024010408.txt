@@ -1,0 +1,5 @@
+2024-01-04 08:07:57.528 +07:00 [ERR] Get : The given ColumnMapping does not match up with any column in the source or destination.
+2024-01-04 08:10:07.628 +07:00 [ERR] Get : The given ColumnMapping does not match up with any column in the source or destination.
+2024-01-04 08:11:27.824 +07:00 [ERR] Get : The given ColumnMapping does not match up with any column in the source or destination.
+2024-01-04 08:11:56.541 +07:00 [INF] Batch_EBAO_LS_RECEIVE End
+2024-01-04 08:44:26.752 +07:00 [INF] Batch_EBAO_LS_RECEIVE End

@@ -1,0 +1,11 @@
+2023-12-27 18:11:58.058 +07:00 [INF] Batch_EBAO_LS Start
+2023-12-27 18:11:58.065 +07:00 [INF] Get data from EBAO LS (Date : 20230901 to 20230930)
+2023-12-27 18:15:52.218 +07:00 [INF] Found Data 108040 Records.
+2023-12-27 18:15:52.223 +07:00 [INF] Write to DB
+2023-12-27 18:16:24.277 +07:00 [ERR] Get : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+The statement has been terminated.
+2023-12-27 18:33:42.858 +07:00 [INF] Batch_EBAO_LS Start
+2023-12-27 18:33:42.887 +07:00 [INF] Get data from EBAO LS (Date : 20231101 to 20231130)
+2023-12-27 18:37:15.885 +07:00 [INF] Found Data 118964 Records.
+2023-12-27 18:37:15.890 +07:00 [INF] Write to DB
+2023-12-27 18:37:47.619 +07:00 [ERR] Get : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.

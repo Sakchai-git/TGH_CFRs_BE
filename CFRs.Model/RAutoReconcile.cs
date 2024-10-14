@@ -1,0 +1,54 @@
+﻿namespace CFRs.Model
+{
+    public class RAutoReconcile
+    {
+        public int refId { get; set; }
+        public string bankAs400 { get; set; } = string.Empty;
+        public string systemCode { get; set; } = string.Empty;
+        public string reqnbcde { get; set; } = string.Empty;
+        public string cheqno { get; set; } = string.Empty;
+        public string capname { get; set; } = string.Empty;
+        public string clntnum01 { get; set; } = string.Empty;
+        public string reqnno { get; set; } = string.Empty;
+        public string reqdate { get; set; } = string.Empty;
+        public decimal? payamt { get; set; }
+        public string tjobcode { get; set; } = string.Empty;
+        public string workDate { get; set; } = string.Empty;
+        public string accSts { get; set; } = string.Empty;
+        public string reqnrev { get; set; } = string.Empty;
+        public string chdrno01 { get; set; } = string.Empty;
+        public string resflag { get; set; } = string.Empty;
+        public string userid { get; set; } = string.Empty;
+        public string bankCode { get; set; } = string.Empty;
+        public string bankName { get; set; } = string.Empty;
+        public string bankShortName { get; set; } = string.Empty;
+        public string branchCode { get; set; } = string.Empty;
+        public string branchName { get; set; } = string.Empty;
+        public string acctNo { get; set; } = string.Empty;
+        public string modeName { get; set; } = string.Empty;
+        public string insertedBy { get; set; } = string.Empty;
+        public string keyDate { get; set; } = string.Empty;
+        public string payInDate { get; set; } = string.Empty;
+        public string effDate { get; set; } = string.Empty;
+        public string paidBy { get; set; } = string.Empty;
+        public string paidDate { get; set; } = string.Empty;
+        public string authenId { get; set; } = string.Empty;
+        public string authenDate { get; set; } = string.Empty;
+        public string collecCode { get; set; } = string.Empty;
+        public string batchNo { get; set; } = string.Empty;
+        public string batchId { get; set; } = string.Empty;
+        public string glAccountName { get; set; } = string.Empty;
+        public string accountingDate { get; set; } = string.Empty;
+        public string wd { get; set; } = string.Empty;
+        public string typeor { get; set; } = string.Empty;
+        public string bankareacode { get; set; } = string.Empty;
+        public string remark { get; set; } = string.Empty;
+        public int? isReconcile { get; set; }
+        public DateTime? reconcileDatetime { get; set; }
+        public int? reconcileTypeId { get; set; }
+        public string reconcileTypeCode { get; set; } = string.Empty;
+        public string reconcileTypeName { get; set; } = string.Empty;
+        public string reconcileRemark { get; set; } = string.Empty;
+    }
+
+}

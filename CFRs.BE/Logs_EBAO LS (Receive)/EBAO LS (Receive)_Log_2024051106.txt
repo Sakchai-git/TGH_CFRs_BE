@@ -1,0 +1,2 @@
+2024-05-11 06:19:42.167 +07:00 [INF] Get data from EBAO LS (Receive) (Date : 20231101 to 20231130)
+2024-05-11 06:22:03.189 +07:00 [INF] Get data from EBAO LS (Receive) (Date : 20231101 to 20231130)

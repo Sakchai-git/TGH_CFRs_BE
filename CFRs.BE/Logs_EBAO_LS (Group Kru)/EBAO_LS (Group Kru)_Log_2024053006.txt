@@ -1,0 +1,5 @@
+2024-05-30 06:28:22.217 +07:00 [INF] Batch_Group_Kru Start
+2024-05-30 06:33:20.616 +07:00 [INF] Batch_Group_Kru Start
+2024-05-30 06:44:31.851 +07:00 [INF] Batch_Group_Kru Start
+2024-05-30 06:49:30.235 +07:00 [INF] Batch_Group_Kru Start
+2024-05-30 06:55:40.689 +07:00 [INF] Batch_Group_Kru Start

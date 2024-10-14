@@ -1,0 +1,5 @@
+2023-12-27 18:12:04.993 +07:00 [INF] Get data from EBAO LS (Group Kru) (Date : 20231101 to 20231130)
+2023-12-27 18:12:59.808 +07:00 [INF] Found Data 1271 Records.
+2023-12-27 18:12:59.813 +07:00 [INF] Write to DB
+2023-12-27 18:13:00.101 +07:00 [INF] Write to DB Success.
+2023-12-27 18:13:00.107 +07:00 [INF] Batch_Group_Kru End
